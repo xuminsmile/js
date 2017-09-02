@@ -2,7 +2,7 @@
 
 > 参考：markdown语法 [http://wowubuntu.com/markdown/]
 
-> 回顾：第一次使用Git.md [https://github.com/xugy0926/getting-started-with-javascript/blob/master/topics/第一次使用Git.md]
+> 回顾：pull request [https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1pull-request]
 
 > PPT课件：[https://github.com/xugy0926/getting-started-with-javascript/blob/master/ppt/JavaScript%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E7%AC%AC%E4%B8%80%E8%8A%82.pdf]
 
