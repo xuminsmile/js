@@ -1,8 +1,10 @@
 # JavaScript入门第一次作业小结 
 
-参考：markdown语法 [http://wowubuntu.com/markdown/]
-回顾：第一次使用Git.md [https://github.com/xugy0926/getting-started-with-javascript/blob/master/topics/第一次使用Git.md]
-PPT课件：[https://github.com/xugy0926/getting-started-with-javascript/blob/master/ppt/JavaScript%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E7%AC%AC%E4%B8%80%E8%8A%82.pdf]
+> 参考：markdown语法 [http://wowubuntu.com/markdown/]
+
+> 回顾：第一次使用Git.md [https://github.com/xugy0926/getting-started-with-javascript/blob/master/topics/第一次使用Git.md]
+
+> PPT课件：[https://github.com/xugy0926/getting-started-with-javascript/blob/master/ppt/JavaScript%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E7%AC%AC%E4%B8%80%E8%8A%82.pdf]
 
 ## 第一步，优化流程设计
 
